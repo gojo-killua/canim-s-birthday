@@ -8,7 +8,7 @@ interface LetterProps {
 const Letter = ({ visible }: LetterProps) => {
   if (!visible) return null;
 
-  const message = `My Dearest Mahnoor,
+  const message = `To My Dearest Mahnoor,
 
 Happy Birthday to the most wonderful person I’ve ever known. You have the most beautiful heart, and being loved by you is the greatest gift of my life.  May your year ahead be full of the same joy you give to everyone else.! 🎉
 
@@ -20,14 +20,14 @@ I am endlessly thankful for every moment we've shared, the late-night talks wher
 
 May this year bring you:
 ✨ Endless joy and laughter
-💖 Dreams coming true
+💖 All your Dreams coming true
 🎀 Love in abundance
 
-🌟 My Prayer for You: May Allah guide every step you take toward the Straight Path and fill your journey with Sabr and Shukr. 
-May Allah grants you the best of this Dunya and the highest ranks of Jannatul Firdaus.May He shower your life with endless Barakah and grant you a heart that finds rest in His remembrance.💖 
+May Allah guide every step you take toward the Straight Path and fill your journey with Sabr and Shukr.🌟 
+May Allah grants you the best of this Dunya and the highest ranks of Jannatul Firdaus.✨May He shower your life with endless Barakah and grant you a heart that finds rest in His remembrance.💖 
 May Allah make you a source of peace for your family and grant you a heart that finds rest in His remembrance.💓
 
-I entrust you to Allah’s care. May He protect you from every harm and evil eye, and keep your soul radiant with the light of Iman. 
+I entrust you to Allah’s care.🫶 May He protect you from every harm and evil eye, and keep your soul radiant with the light of Iman. 
 May every silent prayer in your heart be answered by His infinite Mercy. Ameen.🤲 
 
 May your Iman grow stronger with every passing day.✨ Wishing you complete Aafiyah (well-being) in your health, wealth, and faith.
@@ -36,7 +36,7 @@ May Allah grant you a heart of gold that stays pure and sincere forever.🤍
 
 May He accept all your righteous deeds and keep us together in this life and in Jannah. Ameen✨💞
 
-I'm so grateful to have you in my life. Here's to another year of amazing memories together!
+I'm so grateful to have you in my life. Here's to another year of amazing memories together!🫰
 
 With full of Akidat,
 Always yours, my Âme Soeur. 💝
