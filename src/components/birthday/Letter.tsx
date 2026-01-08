@@ -8,26 +8,38 @@ interface LetterProps {
 const Letter = ({ visible }: LetterProps) => {
   if (!visible) return null;
 
-  const message = `My Dearest Best Friend,
+  const message = `My Dearest Mahnoor,
 
-Happy Birthday to the most wonderful person I know! 🎉
+Happy Birthday to the most wonderful person I’ve ever known. You have the most beautiful heart, and being loved by you is the greatest gift of my life.  May your year ahead be full of the same joy you give to everyone else.! 🎉
 
-Today is YOUR day, and I wanted to make it extra special because you deserve all the happiness in the world.
+Today is YOUR day, and I wanted to make it extra special because you deserve all the happiness in the world. ✨🩷
 
-You're not just a friend – you're my person, my confidant, my partner in crime, and the one who makes every day brighter just by being you.
-
-Thank you for all the laughter, the late-night talks, the inside jokes, and for always being there no matter what. You have a heart of gold and a soul that shines so bright.
+In you, I have found my home. Your soul has a way of making even the darkest days feel bright. I carry such a deep respect for the person you are, and I am endlessly grateful that our paths crossed. Thank you for simply being you. ❤️💞
+ 
+I am endlessly thankful for every moment we've shared, the late-night talks where I feel truly seen. Our history is written in late-night talks and a thousand small moments that mean everything to me.👀❤️ I have so much respect for the person you are, the heart you carry and the way you love. Happy Birthday to my favorite person.💞💓
 
 May this year bring you:
 ✨ Endless joy and laughter
 💖 Dreams coming true
-🌟 Adventures waiting to unfold
 🎀 Love in abundance
+
+🌟 My Prayer for You: May Allah guide every step you take toward the Straight Path and fill your journey with Sabr and Shukr. 
+May Allah grants you the best of this Dunya and the highest ranks of Jannatul Firdaus.May He shower your life with endless Barakah and grant you a heart that finds rest in His remembrance.💖 
+May Allah make you a source of peace for your family and grant you a heart that finds rest in His remembrance.💓
+
+I entrust you to Allah’s care. May He protect you from every harm and evil eye, and keep your soul radiant with the light of Iman. 
+May every silent prayer in your heart be answered by His infinite Mercy. Ameen.🤲 
+
+May your Iman grow stronger with every passing day.✨ Wishing you complete Aafiyah (well-being) in your health, wealth, and faith.
+May your life be illuminated with the Noor of the Quran.🌙
+May Allah grant you a heart of gold that stays pure and sincere forever.🤍
+
+May He accept all your righteous deeds and keep us together in this life and in Jannah. Ameen✨💞
 
 I'm so grateful to have you in my life. Here's to another year of amazing memories together!
 
-With all my love,
-Your Best Friend Forever 💝
+With full of Akidat,
+Always yours, my Âme Soeur. 💝
 
 P.S. You're absolutely amazing, never forget that! 🌸`;
 

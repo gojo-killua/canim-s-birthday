@@ -76,7 +76,9 @@ const EnvelopePage = () => {
                 exit={{ opacity: 0 }}
                 transition={{ duration: 2, repeat: Infinity }}
               >
-                ✨ Someone has something special to say... ✨
+                ✨ On this beautiful day, my heart has a message just for you...
+
+... ✨
               </motion.p>
             )}
           </AnimatePresence>
