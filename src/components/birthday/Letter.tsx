@@ -14,13 +14,12 @@ Happy Birthday to the most wonderful person I’ve ever known. You have the most
 
 Today is YOUR day, and I wanted to make it extra special because you deserve all the happiness in the world. ✨🩷
 
-In you, I have found my home. Your soul has a way of making even the darkest days feel bright. I carry such a deep respect for the person you are, and I am endlessly grateful that our paths crossed. Thank you for simply being you. ❤️💞
+Your presence in my life is the greatest gift Allah has blessed me with.💕 Your soul has a way of making even the darkest days feel bright. I carry such a deep respect for the person you are, and I am endlessly grateful that our paths crossed. Thank you for simply being you. ❤️💞
  
 I am endlessly thankful for every moment we've shared, the late-night talks where I feel truly seen. Our history is written in late-night talks and a thousand small moments that mean everything to me.👀❤️ I have so much respect for the person you are, the heart you carry and the way you love. Happy Birthday to my favorite person.💞💓
 
 May this year bring you:
 ✨ Endless joy and laughter
-💖 All your Dreams coming true
 🎀 Love in abundance
 
 May Allah guide every step you take toward the Straight Path and fill your journey with Sabr and Shukr.🌟 
