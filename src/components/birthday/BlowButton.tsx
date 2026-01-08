@@ -29,15 +29,16 @@ const BlowButton = ({ onClick, visible }: BlowButtonProps) => {
         >
           <Sparkles className="w-4 h-4 text-pink-400" />
         </motion.span>
-        <span>Blow into your microphone! 🎤 OR</span>
+        <span>Blow into your microphone! 🎤</span>
         <motion.span
           animate={{ rotate: [0, -10, 10, 0], scale: [1, 1.1, 1] }}
           transition={{ duration: 2, repeat: Infinity, delay: 0.5 }}
         >
           <Sparkles className="w-4 h-4 text-pink-400" />
+          
         </motion.span>
       </motion.div>
-      
+      <span>OR</span>
       <motion.button
         onClick={onClick}
         className="relative px-5 py-2.5 rounded-full text-base font-semibold text-white bg-gradient-to-r from-pink-400 via-rose-400 to-pink-500 shadow-lg transition-all overflow-hidden border-2 border-white/30"

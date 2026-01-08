@@ -201,7 +201,7 @@ const CakePage = () => {
               animate={{ opacity: [0.7, 1, 0.7] }}
               transition={{ duration: 2, repeat: Infinity }}
             >
-              ✨ Make a wish... ✨
+              ✨ May Allah Pak bless you with all the things you desire and aspire. ✨
             </motion.span>
           </motion.p>
         </motion.div>

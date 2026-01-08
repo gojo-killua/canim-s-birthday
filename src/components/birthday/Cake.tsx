@@ -120,9 +120,9 @@ const Cake = ({ onCandlesReady, candlesBlown }: CakeProps) => {
   }, [onCandlesReady]);
 
   const layers = [
-    { width: 220, height: 60, color: 'linear-gradient(135deg, #FFB6C1 0%, #FF91A4 100%)', delay: 0.3, decorations: 'sprinkles' },
-    { width: 180, height: 55, color: 'linear-gradient(135deg, #E6E6FA 0%, #D8BFD8 100%)', delay: 0.8, decorations: 'flowers' },
-    { width: 140, height: 50, color: 'linear-gradient(135deg, #B0E0E6 0%, #87CEEB 100%)', delay: 1.3, decorations: 'hearts' },
+    { width: 220, height: 60, color: 'linear-gradient(135deg, #FFB6C1 0%, #FF91A4 100%)', delay: 0.2, decorations: 'sprinkles' },
+    { width: 180, height: 55, color: 'linear-gradient(135deg, #E6E6FA 0%, #D8BFD8 100%)', delay: 0.6, decorations: 'flowers' },
+    { width: 140, height: 50, color: 'linear-gradient(135deg, #B0E0E6 0%, #87CEEB 100%)', delay: 1.0, decorations: 'hearts' },
   ];
 
   return (
@@ -216,13 +216,15 @@ const Cake = ({ onCandlesReady, candlesBlown }: CakeProps) => {
               width: layer.width,
               height: layer.height,
               marginTop: index > 0 ? -10 : 0,
+              zIndex: layers.length - index,
             }}
-            initial={{ y: -300, opacity: 0 }}
-            animate={{ y: 0, opacity: 1 }}
+            initial={{ y: -100 - (index * 50), opacity: 0, scale: 0.9 }}
+            animate={{ y: 0, opacity: 1, scale: 1 }}
             transition={{
               delay: layer.delay,
-              duration: 1,
-              ease: [0.34, 1.56, 0.64, 1],
+              duration: 0.6,
+              ease: [0.22, 0.68, 0.36, 1.1],
+              opacity: { duration: 0.3 },
             }}
           >
             {/* Layer body with 3D depth */}
